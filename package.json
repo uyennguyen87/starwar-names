@@ -1,8 +1,8 @@
 {
-  "name": "starwars-name",
+  "name": "@3dexpress/starwar-names",
   "version": "1.0.0",
-  "description": "get random Star War names",
-  "main": "/src/index.js",
+  "description": "get a random Star Wars name",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,7 +13,8 @@
   "keywords": [
     "random",
     "star",
-    "wars"
+    "war",
+    "name"
   ],
   "author": "Nguyen Cong Uyen <uyen.nguyen.87@hotmail.com>",
   "license": "MIT",
