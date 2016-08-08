@@ -1,0 +1,27 @@
+{
+  "name": "starwars-name",
+  "version": "1.0.0",
+  "description": "get random Star War names",
+  "main": "/src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uyennguyen87/starwar-names.git"
+  },
+  "keywords": [
+    "random",
+    "star",
+    "wars"
+  ],
+  "author": "Nguyen Cong Uyen <uyen.nguyen.87@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uyennguyen87/starwar-names/issues"
+  },
+  "homepage": "https://github.com/uyennguyen87/starwar-names#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
